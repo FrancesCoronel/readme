@@ -4,7 +4,7 @@
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-## Check it out at [link](http://)!
+## Feel free to check it out at [link](http://link)! 😊
 
 INSERT DESCRIPTION HERE
 
@@ -14,7 +14,6 @@ INSERT DESCRIPTION HERE
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [License](#license)
 - [Donations](#donations)
 
 ## Installation
@@ -38,7 +37,7 @@ The next section is usage, in which you instruct other people on how to use your
 
 - 🍴 Fork this repo [here](https://github.com/fvcproductions/readme#fork-destination-box)
 - 🔨 Hack away
-- 😊 Add yourself as a contributor
+- 😊 Add yourself as a contributor under credits
 - 🔧 Make a pull request [here](https://github.com/fvcproductions/readme/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
@@ -47,15 +46,7 @@ The next section is usage, in which you instruct other people on how to use your
 
 ## Credits
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
-:---:|
-[`fvcproductions`](http://fvcproductions.com) |
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-2016 © [FVCproductions](http://fvcproductions.com)
+- [FVCproductions](http://fvcproductions.com)
 
 ## Donations
 
