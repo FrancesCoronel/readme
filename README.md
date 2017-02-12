@@ -1,12 +1,12 @@
 [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)
 
-# Project Name
+# readme
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-## Feel free to check it out at [link](http://link)! 😊
+Insert a quick description of your project here.
 
-INSERT DESCRIPTION HERE
+- [View this project on platform]()
 
 ## Table of Contents
 
@@ -27,6 +27,8 @@ $ brew update
 $ brew i fvcproductions
 ```
 
+### Download this project at [link](http:link).
+
 ## Usage
 
 The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screen shots of your project in action.
@@ -37,19 +39,18 @@ The next section is usage, in which you instruct other people on how to use your
 
 - 🍴 Fork this repo [here](https://github.com/fvcproductions/readme#fork-destination-box)
 - 🔨 Hack away
-- 😊 Add yourself as a contributor under credits
+- 👥 Add yourself as a contributor under credits
 - 🔧 Make a pull request [here](https://github.com/fvcproductions/readme/compare)
+- 🎉 Get your pull request approved - success!
 
-> Or just create an issue - any little bit of help counts! 😊
-
-- 😯 Create an issue [here](https://github.com/fvcproductions/readme/issues)!
+Or just [create an issue](https://github.com/fvcproductions/readme/issues) - any little bit of help counts! 😊
 
 ## Credits
 
-- [FVCproductions](http://fvcproductions.com)
+- [FVCproductions](http://fvcproductions.com) 🍓🍫
 
 ## Donations
 
-> Feed me... 🍕
+> Feed me 🍕
 
 [![Donate via PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
