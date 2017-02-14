@@ -4,7 +4,7 @@
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-Insert a quick description of your project here.
+A README template for GitHub projects 📝
 
 - [View this project on platform]()
 
@@ -18,7 +18,7 @@ Insert a quick description of your project here.
 
 ## Installation
 
-Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
+Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a `GIF` to make the process even more clear for other people.
 
 > Install this package using the following command
 
@@ -27,7 +27,7 @@ $ brew update
 $ brew i fvcproductions
 ```
 
-### Download this project at [link](http:link).
+Download this project at [link](http:link).
 
 ## Usage
 
