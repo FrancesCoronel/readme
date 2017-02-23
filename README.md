@@ -4,7 +4,7 @@
 
 [![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-A README template for GitHub projects 📝
+Insert a quick description of your project here.
 
 - [View this project on platform]()
 
@@ -18,7 +18,7 @@ A README template for GitHub projects 📝
 
 ## Installation
 
-Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a `GIF` to make the process even more clear for other people.
+Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
 > Install this package using the following command
 
@@ -26,8 +26,6 @@ Installation is the next section in an effective README. Tell other users how to
 $ brew update
 $ brew i fvcproductions
 ```
-
-Download this project at [link](http:link).
 
 ## Usage
 
@@ -53,4 +51,4 @@ Or just [create an issue](https://github.com/fvcproductions/readme/issues) - any
 
 > Feed me 🍕
 
-[![Donate via PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](http://paypal.me/fvcproductions)
