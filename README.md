@@ -2,7 +2,7 @@
 
 # readme
 
-[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
 
 Insert a quick description of your project here.
 
@@ -14,7 +14,6 @@ Insert a quick description of your project here.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [Donations](#donations)
 
 ## Installation
 
@@ -46,9 +45,3 @@ Or just [create an issue](https://github.com/fvcproductions/readme/issues) - any
 ## Credits
 
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
-
-## Donations
-
-> Feed me 🍕
-
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](http://paypal.me/fvcproductions)
