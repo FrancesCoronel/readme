@@ -1,14 +1,14 @@
 # alfred-readme
 
-An [Alfred 3](https://www.alfredapp.com/) workflow that allows you to stress less on formatting a `README`. 📋
+An [Alfred 3](https://www.alfredapp.com/) workflow that allows you to stress less on formatting a `README`. 📝
 
 ## Installation
 
-Download this Alfred workflow [here](https://github.com/fvcproductions/alfred-readme/releases/download/1.0/README.alfredworkflow).
+Download this Alfred workflow from [Releases](https://github.com/fvcproductions/readme/releases).
 
 ## Usage
 
-You activate this workflow by typing in `readme` into Alfred.
+Activate this workflow by typing in `readme` into Alfred.
 
 ![alfred](screenshots/alfred.png)
 
