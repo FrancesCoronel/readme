@@ -22,13 +22,10 @@ yarn add react react-dom
 Explain how your code can be run or utilized
 
 ```javascript
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
-ReactDOM.render(
-  <h1>Hello, world!</h1>,
-  document.getElementById('root')
-);
+ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById("root"));
 ```
 
 ## Testing
@@ -51,8 +48,8 @@ yarn deploy
 
 Give an overview of what tools were used to create the project (exclude languages as these can be seen on GitHub)
 
-- [GitHub Pages](https://pages.github.com)
-- [Google Analytics](https://analytics.google.com)
+* [GitHub Pages](https://pages.github.com)
+* [Google Analytics](https://analytics.google.com)
 
 ## Contributing
 
@@ -76,10 +73,10 @@ More details can be found at this project's [code of conduct](CODE_OF_CONDUCT.md
 
 Include name and link to GitHub profile
 
-- [FVCproductions](https://github.com/fvcproductions) 🍓🍫
+* [FVCproductions](https://github.com/fvcproductions) 🍓🍫
 
 ## Kudos
 
 Include kudos to anyone whose code was used or inspiration
 
-- README Badges from [Shields.io](http://shields.io/)
+* README Badges from [Shields.io](http://shields.io/)
