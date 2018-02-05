@@ -2,7 +2,7 @@
 
 # readme
 
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
+[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
 
 Insert a quick description of your project here.
 
