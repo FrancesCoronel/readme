@@ -2,24 +2,20 @@
 
 # readme
 
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![MIT License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
+[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/readme.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
 
 Insert a quick description of your project here.
 
-> View this project at [`fvcproductions.github.io/readme`](fvcproductions.github.io/readme)
+> View this project at [`fvcproductions.github.io/readme`](https://fvcproductions.github.io/readme)
 
 ## Installation
 
-Tell other users how to install your project locally.
-
-```shell
+```bash
 yarn init
 yarn add react react-dom
 ```
 
 ## Usage
-
-Explain how your code can be run or utilized
 
 ```javascript
 import React from "react";
@@ -30,35 +26,30 @@ ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById("root"));
 
 ## Testing
 
-Explain how to run the automated tests for this system
-
-```shell
+```bash
 yarn test
 ```
 
 ## Deployment
 
-Explain how to deploy changes made
-
-```shell
+```bash
 yarn deploy
 ```
 
 ## Tools
 
-Give an overview of what tools were used to create the project (exclude languages as these can be seen on GitHub)
-
 * [GitHub Pages](https://pages.github.com)
 * [Google Analytics](https://analytics.google.com)
+* [Shields.io](http://shields.io/)
 
 ## Contributing
 
-Outline the guidelines for how someone can contribute
+> To get started...
 
 1. 🍴 [Fork this repo](https://github.com/fvcproductions/readme#fork-destination-box)
-2. 🔨 Follow the [contributing guidelines](CONTRIBUTING.md) outlined below
+2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](CONTRIBUTING.md)
 3. 👥 Add yourself as a contributor under the credits section
-4. 🔧 [Make a pull request](https://github.com/fvcproductions/readme/compare)
+4. 🔧 [Open a new pull request](https://github.com/fvcproductions/readme/compare)
 5. 🎉 Get your pull request approved - success!
 
 Or just [create an issue](https://github.com/fvcproductions/readme/issues) - any little bit of help counts! 😊
@@ -67,16 +58,8 @@ Or just [create an issue](https://github.com/fvcproductions/readme/issues) - any
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-More details can be found at this project's [code of conduct](CODE_OF_CONDUCT.md).
+More details can be found at this project's [code of conduct](.github/CODE_OF_CONDUCT.md).
 
 ## Credits
 
-Include name and link to GitHub profile
-
 * [FVCproductions](https://github.com/fvcproductions) 🍓🍫
-
-## Kudos
-
-Include kudos to anyone whose code was used or inspiration
-
-* README Badges from [Shields.io](http://shields.io/)
